@@ -2,6 +2,8 @@
 
 Preparatory material for the probabilistic graphical models and the deep learning classes at Stanford.
 
+### Updated for Python 3!
+
 ## Material
 
 This repo currently holds:
